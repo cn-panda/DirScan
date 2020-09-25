@@ -4,7 +4,11 @@ A tool for scanning catalog
 
 # 界面设计
 
-![DirScan](https://github.com/cn-panda/DirScan/blob/master/DirScan.png?raw=true)
+![DirScan](https://github.com/cn-panda/DirScan/blob/master/DirScan_UI.png?raw=true)
+
+
+![DirScan](https://github.com/cn-panda/DirScan/blob/master/DirScan_Run.png?raw=true)
+
 
 # 为什么会有这款工具
 平时用的扫描器遇到一些网站会出现类似于一下情况：
